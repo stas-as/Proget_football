@@ -235,3 +235,4 @@
         df, d = point_rang(df)
         return df
     ```
+    для просмотра всего файла [код](https://github.com/stas-as/Proget_football/blob/master/Preprocessing/proverka_1.0.ipynb)
