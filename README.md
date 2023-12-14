@@ -1,5 +1,5 @@
 ![header](https://github.com/stas-as/Proget_football/blob/master/assets/UK49ux8wKpc.jpg)
-# Projet_football
+# Projeсt_football
 ## Цели проекта:
 1. Обучить модель **ML** для предсказывания общего счета матча 
 2. Организовать постояный и надежный поток данных о новых матчах для своевременного предикта.
